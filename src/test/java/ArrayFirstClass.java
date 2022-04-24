@@ -1,5 +1,6 @@
 public class ArrayFirstClass {
     public static void intType(){
+        System.out.println("updated");
         int a[]=new int[5];
         a[0]=6;
         a[1]=8;
